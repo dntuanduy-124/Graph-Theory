@@ -52,7 +52,6 @@ namespace _22DH110521_Lab2
                 line = lines[i + 1].Split(' ');
                 eList.AddLast(new Tuple<int, int>(
                    Int32.Parse(line[0].Trim()), Int32.Parse(line[1].Trim())));
-
             }
 
         }
