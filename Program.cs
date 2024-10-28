@@ -17,7 +17,7 @@ namespace _22DH110521_Lab2
             //graph.StorageTank("BonChua.INP");//Bai03
             //graph.TransposeGraph("ChuyenVi.INP");//Bai04
             //graph.AverageEdge("TrungBinhCanh.INP");//Bai05
-            graph.AdjacencyMatrix2AdjacencyList("MaTran2DSKe.INP");//BT 1 extra
+            graph.AdjacencyMatrix2AdjacencyList("MaTran2DSKe.INP");
             Console.ReadLine();
             
         }
