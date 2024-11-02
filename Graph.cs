@@ -81,7 +81,6 @@ namespace _22DH110521_Lab2
             {
                 adjList[e.Item1 - 1].AddLast(e.Item2);//them vao danh sach i(index: i-1) dinh j 
                 adjList[e.Item2 - 1].AddLast(e.Item1);//them vao danh sach j(index: i-1) dinh i
-
             }
 
         }
